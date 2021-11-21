@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Playground for https://github.com/diegomura/react-pdf/issues/1606
