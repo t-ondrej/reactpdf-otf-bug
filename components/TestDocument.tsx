@@ -1,6 +1,6 @@
 import { Document, Font, Page, Text, View } from "@react-pdf/renderer";
 
-const fontFamily = "Pecita";
+const fontFamily = "breakfastDEMO";
 
 Font.register({
   family: fontFamily,
